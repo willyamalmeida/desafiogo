@@ -1,6 +1,6 @@
 # Desafio GO
 
-## Executando imagem do Hub Docker
+## Executando imagem do Docker Hub
 <pre>
 # docker run willyamalmeida/desafiogo:latest
 </pre>
